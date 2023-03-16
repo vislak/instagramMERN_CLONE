@@ -1,7 +1,24 @@
-# Instagram MERN
-Full-Stack Instgram Clone using MERN Stack and Socket.io
+Project: Instagram Clone
 
-[Visit Now](https://instagramernstack.herokuapp.com/) 🚀
+Description:
+
+Developed a full-stack web application that replicates the core features of Instagram using MERN stack.
+Implemented user authentication, profile management, and password reset using Sendgrid email service.
+Designed and implemented a scalable backend architecture using Node.js, Express, and MongoDB, with features such as infinite scroll, suggested users, search, follow/unfollow, like/unlike, comment, save/unsave, and delete.
+Integrated real-time messaging functionality using Socket.io for users to search and message each other, with typing and online user status updates.
+Built a responsive and intuitive front-end UI using React, React-Router, Emotion, Material-UI, Webfontloader, Moment.js, and other third-party libraries.
+Skills:
+
+MERN stack development
+Full-stack web application development
+RESTful API design and development
+Real-time communication integration with Socket.io
+Authentication and authorization using JWT and bcrypt
+Responsive and intuitive UI/UX design using Material-UI and Emotion
+Database design and management using MongoDB and Mongoose
+Third-party service integration using Sendgrid
+Version control using Git and GitHub
+
 
 ## 🖥️ Tech Stack
 **Frontend:**
